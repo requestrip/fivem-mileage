@@ -24,3 +24,7 @@ We hereby present our custom and advanced vehicle mileage script for your fivem 
 - Tebex: https://raredevelopment.tebex.io/category/scripts
 - Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
 - Preview: https://streamable.com/0ohclm
+
+# ANOTHER RESOURCES
+- r_simcards - https://github.com/requestrip/r_simcards
+- r_mileage - https://github.com/requestrip/fivem-animations
