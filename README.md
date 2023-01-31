@@ -21,7 +21,7 @@ We hereby present our custom and advanced vehicle mileage script for your fivem 
 - oxmysql
 
 ### MEDIA
-- Forum Post: SOON!
+- Forum Post: https://forum.cfx.re/t/standalone-r-mileage-mileage-system-toggle-engine-handlings-degradation/
 - Discord: https://discord.gg/b6JYz2cdF5
 - Tebex: https://raredevelopment.tebex.io/category/scripts
 - Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
