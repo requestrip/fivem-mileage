@@ -3,6 +3,8 @@
 
 # r_mileage
 
+# Preview: https://youtu.be/KVc9ZO2AM34
+
 We hereby present our custom and advanced vehicle mileage script for your fivem server.
 
 # Features
@@ -23,7 +25,7 @@ We hereby present our custom and advanced vehicle mileage script for your fivem 
 - Discord: https://discord.gg/b6JYz2cdF5
 - Tebex: https://raredevelopment.tebex.io/category/scripts
 - Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
-- Preview: https://streamable.com/0ohclm
+- Preview: https://youtu.be/KVc9ZO2AM34
 
 # ANOTHER RESOURCES
 - r_simcards - https://github.com/requestrip/r_simcards
