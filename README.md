@@ -23,7 +23,8 @@ We hereby present our custom and advanced vehicle mileage script for your fivem 
 ### MEDIA
 - Forum Post: https://forum.cfx.re/t/standalone-r-mileage-mileage-system-toggle-engine-handlings-degradation/
 - Discord: https://discord.gg/b6JYz2cdF5
-- Tebex: https://raredevelopment.tebex.io/category/scripts
+- Tebex Escrow Protected: https://raredevelopment.tebex.io/category/scripts
+- Tebex Open-Source: https://raredevelopment.tebex.io/category/opensource
 - Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
 - Preview: https://youtu.be/KVc9ZO2AM34
 
