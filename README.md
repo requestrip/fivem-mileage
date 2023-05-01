@@ -31,3 +31,4 @@ We hereby present our custom and advanced vehicle mileage script for your fivem 
 # ANOTHER RESOURCES
 - r_simcards - https://github.com/requestrip/r_simcards
 - r_animations - https://github.com/requestrip/fivem-animations
+- r_vehiclelocks - https://github.com/requestrip/fivem-mileage
